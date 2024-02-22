@@ -1,0 +1,226 @@
+.page1{
+    width: 1250px;
+    height: 180px;
+    background-color: white;
+     align-items: center;
+     display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+     
+     
+}
+.page1 div{
+    height: 80px;
+    width: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+ 
+.button1{
+    width: 180px;
+    height: 42px;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: rgb(89, 195, 181);
+    border: none;
+    color: white;
+    font-weight: 200px;
+}
+.page1a{
+    word-spacing: 0.5em;
+    text-decoration-line: none;
+
+}
+.page1b{
+    align-items: center;
+    padding: 0 30px;
+    flex-direction: row;
+    text-decoration: none;
+    color: #343333;
+    
+    
+}
+a{
+    color: rgb(43, 40, 40);
+    text-decoration-line: none;
+    margin-left: 30px;
+
+}
+.page2{
+    
+    height: 700px;
+    width: 1250px;
+    background-image: url(imge/ba.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color :white;
+    padding: 110px 110px;
+   
+
+
+}
+.heading1{
+    font-size: 80px;
+     
+}
+.p1{
+    font-size: 30px;
+
+}
+.button2{
+    width: 240px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 23px;
+    background-color: rgb(89, 195, 181);
+    border: none;
+    color: white;
+    font-weight:
+} 
+.page3{
+        width: 1250px;
+        height: 250px;
+        background-color: white;
+        font-size: 30px;
+        color: rgb(82, 67, 67);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+    }
+    .page4{
+        width: 1250px;
+        height: 250px;
+        background-color: white;
+        font-size: 25px ;
+        color: rgb(60, 59, 59);
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items:center; 
+        padding: 0px;
+        margin: 0;
+    }
+    .page4 div{
+        height: 250px;
+        width: 220px;
+        background-color: white;
+        color: rgb(60, 59, 59);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items:center; 
+    }
+    .page-4{
+        border-radius: 20px;
+    }
+    .page-4 img{
+       width: 200px;
+       height: 150px; 
+       border-radius: 10px;
+    }
+
+
+    .page5{
+        width: 1250px;
+        height: 700px;
+        background-image: url(imge/7.jpg) ;
+        background-color: rgb(95, 202,199,.8);
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .page5 div{
+        width: 920px;
+        height: 500px;
+        
+        border-radius: 10px;
+        border-width:  3px;
+        border-color:  white;
+        padding: 5px;
+        border-style: outset;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: rgb(112, 15, 15);
+        
+        
+    }
+ 
+
+
+
+
+    .button3{
+        width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+   background-color: transparent;
+    
+    color: rgb(246, 242, 242);
+    border-width: 2px;
+    border-style:  outset;
+    
+    border-color: rgb(248, 245, 245);
+
+
+    }
+    .button3 :hover{
+        background-color: rgb(62, 81, 174);
+        color: rgb(234, 14, 14);
+        
+    }
+     .page6{
+        width: 1250px;
+        height: 300px;
+        background-color: white;
+         
+        color:#F7889A;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+     }
+     .heading3{
+        font-size: 55px;
+        color: rgb(50, 48, 48);
+     }
+.page7{
+    width: 1250px;
+    height: 190px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: start;
+}
+.page7 div{
+    height: 150px;
+    width: 200px;
+    background-color: #F7889A;
+    border-radius: 10px;
+     
+}
+.page7 img{
+    border-radius: 10px;
+}
+
+      
+
+     
+
+
+
+      
+     
+
+ 
